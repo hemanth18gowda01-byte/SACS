@@ -167,16 +167,17 @@ This project was developed to understand and demonstrate:
 - [ ] Multi-user Chat Support
 - [ ] Database Integration
 - [ ] Real-time Messaging
-- [ ] Key Management System
-- [ ] File Transfer Support
+- [ ] Key Exchange (Diffie Hellman)
+      
 
 ---
 
 ## Author
 
 **Hemanth Gowda A**
+**Gmail** = hemanth18gowda01@gmail.com 
 
-Python Developer · Cybersecurity & Cryptography Enthusiast · Secure Communication Systems Research
+Cryptography and Network Security · python developer · Socket Programming and CLI
 
 ---
 
